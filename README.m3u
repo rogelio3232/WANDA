@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:Accesos de 0,70 s
+http://170.0.233.19:8000/play/a0fy/index.m3u8
+#EXTINF:Accesos de 0,80 s
+http://170.0.233.19:8000/play/a0fz/index.m3u8
+#EXTINF :0,AE Mundo
+http://170.0.233.19:8000/play/a0fs/index.m3u8
+#EXTINF:0,ATV
+http://170.0.233.19:8000/play/a0ni/index.m3u8
+#EXTINF: 0, América TV PY
+http://170.0.233.19:8000/play/a0nn/index.m3u8
+#EXTINF:0,AmericaTV
+http://170.0.233.19:8000/play/a0ng/index.m3u8
+#EXTINF:0, Animal Planet
+http://170.0.233.19:8000/play/a0fj/index.m3u8
+#EXTINF:0,BabyFirst
+http://170.0.233.19:8000/play/a0et/index.m3u8
+#EXTINF:0,CNN Español
+http :/ /170.0.233.19:8000/play/a0mz/index.m3u8
+#EXTINF:0,Canal Estrellas
+http://170.0.233.19:8000/play/a0g6/index.m3u8
+#EXTINF:0,Canal Informativo Inter
+http://170.0.233.19:8000/play/a0p0/index.m3u8
+# EXTINF:0,Cartoon Network
+http://170.0.233.19:8000/play/a0em/index.m3u8
+#EXTINF:0,Cinecanal
+http://170.0.233.19:8000/play/a0ee/index.m3u8
+#EXTINF:0 ,Cinemax
+http://170.0.233.19:8000/play/a0o6/index.m3u8
+#EXTINF:0,Claro Cinema
+http://170.0.233.19:8000/play/a0oh/index.m3u8
+#EXTINF:0,Rock clásico
+http://170.0.233.19:8000/play/a0fx/index.m3u8
+#EXTINF:0, Discovery Channel
+http://170.0.233.19:8000/play/a0fi/index.m3u8
+#EXTINF:0, ID de descubrimiento
+http: //170.0.233.19:8000/play/a0na/index.m3u8
+#EXTINF:0, Discovery Kids
+http://170.0.233.19:8000/play/a0my/index.m3u8
+#EXTINF:0, Discovery Turbo
+http://170.0.233.19:8000/play/a0oj/index.m3u8
+#EXTINF :0, Disney Channel
+http://170.0.233.19:8000/play/a0fh/index.m3u8
+#EXTINF:0,Disney Jr
+http://170.0.233.19:8000/play/a0n5/index.m3u8
+#EXTINF:0 ,E Entretenimiento
+http://170.0.233.19:8000/play/a0fl/index.m3u8
+#EXTINF:0,ESPN
+http://170.0.233.19:8000/play/a0fo/index.m3u8
+#EXTINF:0,ESPN 2
+http://170.0.233.19:8000/play/a0n7/index.m3u8
+#EXTINF:0,ESPN 2 Latino
+http://170.0.233.19:8000/play/a0fn/index.m3u8
+#EXTINF:0,ESPN 3
+http ://170.0.233.19:8000/play/a0ol/index.m3u8
+#EXTINF:0,ESPN 4
+http://170.0.233.19:8000/play/a0nj/index.m3u8
+#EXTINF:0,Enlace
+http://170.0.233.19:8000/play/a0er/index.m3u8
+#EXTINF:0,FX
+http:// 170.0.233.19:8000/play/a0oa/index.m3u8
+#EXTINF:0, Fox Sports 2
+http://170.0.233.19:8000/play/a0g7/index.m3u8
+#EXTINF:0, Fox Sports 3
+http:// 170.0.233.19:8000/play/a0g8/index.m3u8
+#EXTINF:0,History Channel
+http://170.0.233.19:8000/play/a0ed/index.m3u8
+#EXTINF:0,HomeandHealth
+http://170.0.233.19 :8000/play/a0ne/index.m3u8
+#EXTINF:0,Latina
+http://170.0.233.19:8000/play/a0nf/index.m3u8
+#EXTINF:0,Vida útil
+http://170.0.233.19:8000/play /a0eu/index.m3u8
+#EXTINF:0,Me encanta la música
+http://170.0.233.19:8000/play/a0fw/index.m3u8
+#EXTINF:0,MTV
+http://170.0.233.19:8000/play/a0eh/index.m3u8
+#EXTINF:0,Nat Geo
+http:/ /170.0.233.19:8000/play/a0ec/index.m3u8
+#EXTINF:0,Nick Jr
+http://170.0.233.19:8000/play/a0oi/index.m3u8
+#EXTINF:0,Nickelodeon
+http://170.0. 233.19:8000/play/a0eb/index.m3u8
+#EXTINF:0,Panamericana TV
+http://170.0.233.19:8000/play/a0nh/index.m3u8
+#EXTINF:0,RCN Novelas
+http://170.0.233.19: 8000/play/a0n9/index.m3u8
+#EXTINF:0,Reggae
+http://170.0.233.19:8000/play/a0g0/index.m3u8
+#EXTINF:0,Reggaetón
+http://170.0.233.19:8000/play/ a0g1/index.m3u8
+#EXTINF:0,Rock latino
+http://170.0.233.19:8000/play/a0g2/index.m3u8
+#EXTINF:0, CANAL ESTRELLA
+http://170.0.233.19:8000/play/a0ek/index.m3u8
+#EXTINF:0, Sony
+http:/ /170.0.233.19:8000/play/a0o7/index.m3u8
+#EXTINF:0,Espacio
+http://170.0.233.19:8000/play/a0o9/index.m3u8
+#EXTINF:0,Studio Universal
+http://170.0. 233.19:8000/play/a0n6/index.m3u8
+#EXTINF:0,SyFy
+http://170.0.233.19:8000/play/a0ev/index.m3u8
+#EXTINF:0,TBS
+http://170.0.233.19:8000/ play/a0nc/index.m3u8
+#EXTINF:0,TCM
+http://170.0.233.19:8000/play/a0el/index.m3u8
+#EXTINF:0,TLC
+http://170.0.233.19:8000/play/a0g4/ index.m3u8
+#EXTINF:0,TNT
+http://170.0.233.19:8000/play/a0en/index.m3u8
+#EXTINF:0,TV PERÚ
+http://170.0.233.19:8000/play/a0ox/index.m3u8
+#EXTINF:0,TV Perú
+http://170.0.233.19:8000/play/a0nk/index.m3u8
+#EXTINF :0,TV+ HD
+http://170.0.233.19:8000/play/a0ow/index.m3u8
+#EXTINF:0,TVE
+http://170.0.233.19:8000/play/a0es/index.m3u8
+#EXTINF:0, Telemundo
+http://170.0.233.19:8000/play/a0g9/index.m3u8
+#EXTINF:0,TyC
+http://170.0.233.19:8000/play/a0fq/index.m3u8
+#EXTINF:0,Universal
+http:/ /170.0.233.19:8000/play/a0ef/index.m3u8
+#EXTINF:0,ViaX
+http://170.0.233.19:8000/play/a0g5/index.m3u8
+#EXTINF:0,WILLAX
+http://170.0.233.19 :8000/play/a0nd/index.m3u8
+#EXTINF:0,Advertencia
+http://170.0.233.19:8000/play/a0fk/index.m3u8
